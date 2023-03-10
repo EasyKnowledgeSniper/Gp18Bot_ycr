@@ -2,8 +2,7 @@
   on: [push]
   # Specify the event that automatically triggers the workflow file. This example uses the push event, so that the jobs run every time someone pushes a change to the repository
 
-  jobs: # gather all the jobs that run in the
-workflow
+  jobs: # gather all the jobs that run in the workflow
     my-helloworld-job:
       runs-on: ubuntu-latest # Set the type of machine to run on
       steps:
