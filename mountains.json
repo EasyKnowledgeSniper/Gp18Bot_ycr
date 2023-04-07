@@ -1,0 +1,18 @@
+{
+    "The Peak": {
+        "img_url": "https://media.timeout.com/images/105631981/1024/768/image.jpg",
+        "description": "Distance: 3.5km\nDuration: 1 hour\nDifficulty: 1 out of 5\nTop tip: The circular walk is family and pet-friendly. But be aware that it is a popular hike and can get crowded during weekends.\nHow to get there: Take the tram from the lower Peak Tram terminus on Garden Road, or take the 15 bus from Exchange Square bus terminus and alight at The Peak.\n"
+    },
+    "Dragon's Back": {
+        "img_url": "https://media.timeout.com/images/105629341/1024/768/image.jpg",
+        "description": "Distance: 8.5km\nDuration: 3 hours\nDifficulty: 2.5 out of 5\nTop tip: Be aware that most of the trail has no shade, so make sure you bring enough water and sunscreen for the hike.\nHow to get there: Take the 9 bus or red minibus from Shau Kei Wan Bus Terminus to To Tei Wan on Shek O Road. At Big Wave Bay, you can take the same bus or red minibus back to Shau Kei Wan."
+    },
+    "Lamma Island": {
+        "img_url": "https://media.timeout.com/images/105645756/1024/768/image.jpg",
+        "description": "Distance: 7km\nDuration: 2 hours\nDifficulty: 2 out of 5\nTop tip: You can start the hike either from Yung Shue Wan or Sok Kwu Wan. Make sure to check the ferry schedule for the way back to allow for sufficient time on the island.\nHow to get there: Ferries are available from Central Pier 4 to both Yung Shue Wan and Sok Kwu Wan."
+    },
+    "Devil's Peak": {
+        "img_url": "https://media.timeout.com/images/105648929/1024/768/image.jpg",
+        "description": "Distance: 3.5km\nDuration: 1.5 hours\nDifficulty: 2 out of 5\nTop tip: Be careful when wandering around the gun pits and trenches, as there isn’t much protection around the sites.\nHow to get there: Take the 24S minibus from Yau Tong MTR Station and get off at Lei Yue Mun sporting centre, or walk 15 minutes along Ko Chiu Road to get to Lei Yue Mun.  At the end of your hike, descend along the road and walk towards Lei Yue Mun Estate housing where Yau Tong MTR station is nearby. "
+    }
+}
